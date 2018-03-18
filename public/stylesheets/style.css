@@ -46,3 +46,6 @@ font-size: 20px;
 border-radius: 10px;
 width:30%;
 }
+.error {
+    border: solid 2px #FF0000;
+}
